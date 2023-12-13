@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hi there! 👋
 
 I'm Taha Ahmed Siddiqui, a recent Computer Science graduate with a passion for AI and web development. Currently based in Karachi, Pakistan, I'm diving into the realms of both front-end and back-end technologies, along with exploring the fascinating world of AI.
 
